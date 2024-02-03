@@ -1,0 +1,109 @@
+.home{
+    border :21px solid rgb(189, 189, 28);
+    width: 220px;
+    height: 200px;
+    margin-left: 400px;
+border-radius: 0px 0px;
+background-color: #da9393;
+}
+.big{
+    width: 220px;
+    height: 200px;
+    border: 21px solid rgb(52, 52, 50);
+    margin-left: 400px;
+    border-radius: 0px 0px;
+    background-color: #fff;
+}
+.A{
+display: flex;
+margin: 10px;
+margin-left: 10px;
+
+}
+.a{
+    display: flex;
+    margin: 5px;
+    margin-left: 10px;
+    
+}
+.b{
+    display: flex;
+    margin: 5px;
+    margin-left: 10px;
+}
+.c{
+    display: flex;
+    margin: 5px;
+    margin-left: 10px;
+}
+.one{
+  margin: 0px 5px;
+  border: 10px solid rgb(225, 217, 201);
+}
+.two{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.three{
+    margin: 0px 5px;
+  border: 10px solid rgb(225, 217, 201);
+}
+
+.four{
+    margin: 0px 8px;
+    border: 10px solid rgb(225, 217, 201);
+
+}
+.five{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.six{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.seven{
+    margin: 0px 5px;
+  border: 10px solid rgb(225, 217, 201);
+
+}
+.eight{
+    margin: 0px 5px;
+  border: 10px solid rgb(225, 217, 201);
+}
+.nine{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.zero{
+    margin: 0px 5px;
+  border: 10px solid rgb(225, 217, 201);
+}
+.plus{
+    margin: 0px 5px;
+  border: 10px solid rgb(225, 217, 201);
+}
+.minus{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.times{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.modul{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.equal{
+    margin: 0px 5px;
+    border: 10px solid rgb(225, 217, 201);
+}
+.n{
+    font: display 1px;;
+    margin-left: 200px;
+
+}
+body{
+    background-color: #a79494;
+}
